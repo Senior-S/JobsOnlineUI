@@ -8,5 +8,7 @@ Where i can download the plugin?
 *Here:* https://github.com/Senior-S/JobsOnlineUI/releases/tag/1.0.0 
 
 *Workshop Mod:* https://steamcommunity.com/sharedfiles/filedetails/?id=2138356330
- 
+
+If you want a custom UI with more jobs you can contact me in discord: Senior S#9583
+
 Unturned RocketMod 4
